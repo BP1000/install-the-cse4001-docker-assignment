@@ -6,7 +6,7 @@ In this assignment, you will set up the **OS/161** operating system on your pers
 
 Follow the instructions provided in the link below to install and run OS/161:
 
-- [Installing OS/161](https://github.com/eraldoribeiro/UsingCSE4001_OS161)
+- [Installing OS/161](https://github.com/cse4001/UsingCSE4001_OS161)
 
 Once OS/161 is running, you must make a small modification to the kernel, rebuild it, and boot the updated kernel to verify your change.
 
