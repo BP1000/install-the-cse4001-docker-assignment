@@ -51,7 +51,6 @@ The image below is **only an example** demonstrating how to embed an image in Ma
 1. Replace the example image filename with your own screenshot filename.
 2. Ensure the image file is added to this repository so GitHub can render it correctly.
 
-![Example image](<img width="1512" height="982" alt="screenshot" src="https://github.com/user-attachments/assets/4560706d-8aa1-4b8c-ba04-375b5d355587" />
-)
+![Example image](screenshot.png)
 
 
